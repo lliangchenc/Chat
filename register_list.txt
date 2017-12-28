@@ -1,0 +1,8 @@
+A 123 3 B ass lccllccc
+lccllccc 123456 5 A B MM TOM 梁宸
+B 123123 0
+MM 12332 0
+TOM TOM123 0
+0 0 0
+C asd 2 A C
+梁宸 123123 1 lccllccc
